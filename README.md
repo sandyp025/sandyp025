@@ -68,12 +68,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sandyp025/sandyp025/output/snake.svg" alt="Snake animation" />
-
-###
-
 <hr/>
 <div align="center">
 <h2> 🛠️ Tech Arsenal </h2>
