@@ -17,6 +17,8 @@
 </div>
 
 
+
+
 <img align="right" height="150" src="https://github.com/sandyp025.png" alt="Sandip Mandal avatar" />
 
   ### 🧠 What I'm Wired For
@@ -25,7 +27,10 @@
 - 💬 Got a question on backend, system design, or ML? Let’s talk tech! 🚀
 - 🧠⚡ X: [@SandipMandal00](https://x.com/SandipMandal00)
 - 📫 Email: **sandipmandal02.sm@gmail.com**
+  
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandyp025&theme=react-dark&hide_border=true&height=250" width="98%" />
 
   <div align="center">
 
