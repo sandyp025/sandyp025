@@ -29,7 +29,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandyp025&theme=react-dark&hide_border=true&height=250" width="98%" />
 
   <div align="center">
 
