@@ -22,51 +22,60 @@
 ### 🧠 What I'm Wired For
 - 👨🏽‍💻 Competitive programming, backend architecture, Bitcoin/Web3, ML, and cloud infra  
 - 🌱 Currently building with **Spring Boot** and doing **DevOps with Go** (infra tooling, CI/CD)  
-- 💬 Got a question on backend, system design, or ML? Let’s talk tech! 🚀  
+- 💬 Got a question on backend, system design, or ML? Let's talk tech! 🚀  
 - 🧠⚡ X: [@SandipMandal00](https://x.com/SandipMandal00)  
 - 📫 Email: **sandipmandal02.sm@gmail.com**
 
 ---
 
 <div align="center">
-
-  <div align="center">
-
-  <span style="display:inline-block; margin: 0 8px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sandyp025&show_icons=true&theme=dark" height="160" />
-  </span>
-
-  <span style="display:inline-block; margin: 0 8px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandyp025&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook&card_width=400&theme=dark" height="160" alt="languages graph" />
-  </span>
-
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandyp025&theme=dracula)
+  
+  <div>
+    <img <!-- GitHub Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sandyp025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyp025&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,scss,jupyter%20notebook&count_private=true&hide_border=true&card_width=300" height="170" /> />
+    
+  </div>
+  
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandyp025&theme=dracula" height="180" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandyp025&theme=dracula" height="180" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandyp025&theme=dracula" height="180" />
+  </div>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandyp025&theme=dark&hide_border=true" width="500"/>
+  
 </div>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=sandyp025&theme=dark&hide_border=true&layout=compact" width="400"/>
 
 ---
 
 <div align="center">
-<h2> 🛠️ Tech Arsenal </h2>
+  
+## 🛠️ Tech Arsenal
 
-<h4>Languages & Frameworks</h4>
+### Languages & Frameworks
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,cpp,c,python,js,ts,nodejs,express,react,nextjs,nestjs,redux&perline=8" />
 </p>
 
-<h4>Databases & Infrastructure</h4>
+### Databases & Infrastructure
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,kafka,elasticsearch,docker,jenkins,grafana,postman&perline=10" />
 </p>
 
-<h4>Cloud & Tools</h4>
+### Cloud & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=aws,azure,netlify,vercel,git,vscode,idea,ubuntu,notion&perline=9" />
 </p>
+
 </div>
 
 ---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sandyp025.sandyp025&" />
-</div>
+</div> 
