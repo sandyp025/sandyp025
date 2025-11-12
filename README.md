@@ -17,7 +17,7 @@
   </p>
 </div>
 
-<img align="right" height="150" src="https://github.com/sandyp025.png" alt="Sandip Mandal avatar" />
+<img align="right" height="150" src="https://github.com/Sandipmandal25.png" alt="Sandip Mandal avatar" />
 
 ### 🧠 What I'm Wired For
 - 👨🏽‍💻 Competitive programming, backend architecture, Bitcoin/Web3, ML, and cloud infra  
@@ -39,14 +39,14 @@
   </div>
   
   <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandyp025&theme=dracula" height="180" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandyp025&theme=dracula" height="180" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandyp025&theme=dracula" height="180" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandipmandal25&theme=dracula" height="180" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sandipmandal25&theme=dracula" height="180" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sandipmandal25&theme=dracula" height="180" />
   </div>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandyp025&theme=dark&hide_border=true" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandipmandal25&theme=dark&hide_border=true" width="500"/>
   
 </div>
 
