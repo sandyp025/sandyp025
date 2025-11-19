@@ -17,7 +17,7 @@
   </p>
 </div>
 
-<img align="right" height="150" src="https://github.com/Sandipmandal25.png" alt="Sandip Mandal avatar" 
+<img align="right" height="150" src="https://github.com/Sandipmandal25.png" alt="Sandip Mandal avatar" img>
 
 ### 🧠 What I'm Wired For
 - 👨🏽‍💻 Competitive programming, backend architecture, Bitcoin/Web3, ML, and cloud infra  
@@ -34,7 +34,7 @@
   <div>
     <img <!-- GitHub Stats Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=Sandipmandal25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipmandal25&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,scss,jupyter%20notebook&count_private=true&hide_border=true&card_width=300" height="170" /> />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipmandal25&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,scss,jupyter%20notebook&count_private=true&hide_border=true&card_width=300" height="170" />
     
   </div>
   
