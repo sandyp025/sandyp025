@@ -17,7 +17,7 @@
   </p>
 </div>
 
-<img align="right" height="150" src="https://github.com/Sandipmandal25.png" alt="Sandip Mandal avatar" />
+<img align="right" height="150" src="https://github.com/Sandipmandal25.png" alt="Sandip Mandal avatar" 
 
 ### 🧠 What I'm Wired For
 - 👨🏽‍💻 Competitive programming, backend architecture, Bitcoin/Web3, ML, and cloud infra  
