@@ -32,11 +32,11 @@
   
   
   <div>
-    <img <!-- GitHub Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandipmandal25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipmandal25&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,scss,jupyter%20notebook&count_private=true&hide_border=true&card_width=300" height="170" />
-    
+<img src="https://github-readme-stats.vercel.app/api?username=Sandipmandal25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipmandal25&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,scss,jupyter%20notebook&count_private=true&hide_border=true&card_width=320" height="170" />
   </div>
+
+
   
   <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandipmandal25&theme=dracula" height="180" />
