@@ -8,6 +8,7 @@
 
 
 *  **₿ Summer of Bitcoin'2026** working on  @ [bitcoinppl(Cove)](https://github.com/bitcoinppl/cove)
+*  **SWE intern at Roostoo**  (june 2025 - jan 2026)
 
   
 ### 🧠 What I'm Wired For
