@@ -4,13 +4,18 @@
 <img align="right" height="150" src="https://github.com/Sandipmandal25.png" alt="Sandip Mandal avatar" />
 
 
-### 💼 Experience
+
+## 💼 Experience
+
+- ₿ **Summer of Bitcoin 2026** · Contributor @ [bitcoinppl/Cove](https://github.com/bitcoinppl/cove)
+- **Roostoo** · Software Engineer Intern · `Jun 2025 – Jul 2026`
+- **Roostoo** · **Founding Engineer** · `Jul 2026 – Present` · Backed by **YZi Labs** <img src="https://drive.google.com/uc?export=view&id=1Lqmi7ISijP68yKyFVcoA_YWYBvXd8Tgi" alt="YZi Labs" height="20" align="absmiddle">
 
 
-*  **₿ Summer of Bitcoin'2026** working on  @ [bitcoinppl(Cove)](https://github.com/bitcoinppl/cove)
-*  **SWE intern at Roostoo**  (june 2025 - jan 2026)
 
-  
+
+
+
 ### 🧠 What I'm Wired For
 - 👨🏽‍💻 Competitive programming, backend architecture, Bitcoin/Web3, ML, and cloud infra
 - 🌱 Currently building with **Spring Boot** and doing **DevOps with Go** (infra tooling, CI/CD)
