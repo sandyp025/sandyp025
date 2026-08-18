@@ -6,9 +6,12 @@
 
 
 ## 💼 Experience
-- **Roostoo** · **Founding Engineer** · `Jul 2026 – Present` · Backed by **YZi Labs** <img src="https://drive.google.com/uc?export=view&id=1Lqmi7ISijP68yKyFVcoA_YWYBvXd8Tgi" alt="YZi Labs" height="20" align="absmiddle">
+
+- **Roostoo** · **Founding Engineer** · `Jul 2026 – Present` · Backed by [**YZi Labs**](https://www.yzilabs.com/) <a href="https://www.yzilabs.com/"><img src="https://drive.google.com/uc?export=view&id=1Lqmi7ISijP68yKyFVcoA_YWYBvXd8Tgi" alt="YZi Labs" height="20" align="absmiddle"></a>
 - ₿ **Summer of Bitcoin 2026** · Contributor @ [bitcoinppl/Cove](https://github.com/bitcoinppl/cove)
 - **Roostoo** · Software Engineer Intern · `Jun 2025 – Jul 2026`
+
+
 
 
 
