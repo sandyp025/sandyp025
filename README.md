@@ -7,20 +7,13 @@
 
 ## 💼 Experience
 
-- **Roostoo Labs** · **Founding Engineer** · `Jul 2026 – Present` · Backed by [**YZi Labs**](https://www.yzilabs.com/) <a href="https://www.yzilabs.com/"><img src="https://drive.google.com/uc?export=view&id=1Lqmi7ISijP68yKyFVcoA_YWYBvXd8Tgi" alt="YZi Labs" height="20" align="absmiddle"></a>
+- [**Roostoo Labs**](https://www.roostoo.com/) · **Founding Engineer** · `Jul 2026 – Present` · Backed by [YZi Labs](https://www.yzilabs.com/) <a href="https://www.yzilabs.com/"><img src="https://drive.google.com/uc?export=view&id=1Lqmi7ISijP68yKyFVcoA_YWYBvXd8Tgi" alt="YZi Labs" height="17" align="absmiddle"></a>
 - <img src="https://www.google.com/favicon.ico" alt="Google" height="18" align="absmiddle"> **Google Summer of Code 2025** · Contributor @ [**SW360**](https://github.com/eclipse-sw360/sw360) · [Eclipse Foundation](https://www.eclipse.org/)
 - <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png" alt="Bitcoin" height="18" align="absmiddle"> **Summer of Bitcoin 2026** · Contributor @ [bitcoinppl/Cove](https://github.com/bitcoinppl/cove)
-- **Roostoo Labs** · Software Engineer Intern · `Jun 2025 – Jul 2026`
+- [**Roostoo Labs**](https://www.roostoo.com/) · Software Engineer Intern · `Jun 2025 – Jul 2026`
 
+## Connect:
 
-
-
-
-
-### 🧠 What I'm Wired For
-- 👨🏽‍💻 Competitive programming, backend architecture, Bitcoin/Web3, ML, and cloud infra
-- 🌱 Currently building with **Spring Boot** and doing **DevOps with Go** (infra tooling, CI/CD)
-- 💬 Got a question on backend, system design, or ML? Let's talk tech! 🚀
 - 🧠⚡ X: [@SandipMandal00](https://x.com/SandipMandal00)
 - 📫 Email: **sandipmandal02.sm@gmail.com**
 
